@@ -11,8 +11,8 @@
 - Dynamic charts and summary statistics
 
 ## 📁 Files
-- `happiness_dashboard.xlsx`: Main Excel file with visual dashboard
-- `/screenshots/dashboard.png`: Dashboard preview image
+- [`happiness_proj.xlsx`](./happiness_proj.xlsx): Main Excel file with visual dashboard
+- ![Dashboard Preview](./screenshots/dashboard.png)
 
 ## 🌍 Insights
 - Happiness peaked in 2005 and dipped in 2006
@@ -21,8 +21,9 @@
 
 ## 📊 Data Source
 Original dataset from Kaggle:  
-[World Happiness Report- 2024]([https://www.kaggle.com/datasets/mathurinache/world-happiness-report](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?select=World-happiness-report-updated_2024.csv))
+[World Happiness Report – 2024 (Yearly Updated)](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)
+
 Data includes happiness scores, GDP per capita, social support, and other indicators by country and year.
 
 ## 🔗 Project Link
-https://github.com/aaronthai2/global-happiness-analysis
+[View on GitHub](https://github.com/aaronthai2/global-happiness-analysis)
