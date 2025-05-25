@@ -3,12 +3,20 @@
 📊 An Excel-based dashboard that explores global happiness trends from 2005 to 2023 using GDP, social support, freedom, life expectancy, and more.
 
 ## 🔧 Tools Used
-- Microsoft Excel (Pivot Tables, Heatmaps, Line Charts, Conditional Formatting)
+- Microsoft Excel (Pivot Tables, Heatmaps, Line Charts, Sparklines, Conditional Formatting)
+- Formulas: `AVERAGEIFS`, `IFERROR`, `VLOOKUP`
+
+## 🧹 Data Cleaning & Preparation
+- Identified and filled blank values using `AVERAGEIFS` to calculate country-specific averages over time
+- Applied `IFERROR` to handle missing or invalid lookups cleanly
+- Standardized column formats and trimmed whitespace
+- Ensured consistent country names across years for analysis
 
 ## 📈 Key Features
 - Trend analysis of happiness score over time
 - Visual correlation between GDP and happiness
-- Dynamic charts and summary statistics
+- Excel sparklines for quick trend previews in rows
+- Dynamic charts and summary statistics using pivot tables
 
 ## 📁 Files
 - [`happiness_proj.xlsx`](./happiness_proj.xlsx): Main Excel file with visual dashboard
