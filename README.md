@@ -27,7 +27,8 @@
 
 ## 📊 Data Source
 Original dataset from Kaggle:  
-[World Happiness Report- 2024]([https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?select=World-happiness-report-updated_2024.csv))
+[World Happiness Report – 2024](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?select=World-happiness-report-updated_2024.csv)
+
 
 Data includes happiness scores, GDP per capita, social support, and other indicators by country and year.
 
