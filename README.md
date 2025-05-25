@@ -4,13 +4,11 @@
 
 ## 🔧 Tools Used
 - Microsoft Excel (Pivot Tables, Heatmaps, Line Charts, Sparklines, Conditional Formatting)
-- Formulas: `AVERAGEIFS`, `IFERROR`, `VLOOKUP`
+- Formulas: `AVERAGEIFS`
 
 ## 🧹 Data Cleaning & Preparation
 - Identified and filled blank values using `AVERAGEIFS` to calculate country-specific averages over time
-- Applied `IFERROR` to handle missing or invalid lookups cleanly
 - Standardized column formats and trimmed whitespace
-- Ensured consistent country names across years for analysis
 
 ## 📈 Key Features
 - Trend analysis of happiness score over time
